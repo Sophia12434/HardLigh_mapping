@@ -18,14 +18,14 @@
 
 - type: entity
   parent: EncryptionKey
-  id: EncryptionKeyUSSPCommand # HardLight: Captialized for consistency.
-  name: USSP command encryption key
-  description: An encryption key for the USSP strategic-level communications channel.
+  id: EncryptionKeyIncog # HardLight: Captialized for consistency.
+  name: Unamarked Encryption Key
+  description: An Unmarked encryption key Doesnt look like it belongs to any known faction.
   components:
   - type: EncryptionKey
     channels:
-    - USSPCommand # HardLight: Captialized for consistency.
-    defaultChannel: USSPCommand # HardLight: Captialized for consistency.
+    - Incog # HardLight: Captialized for consistency.
+    defaultChannel: Incog # HardLight: Captialized for consistency.
   - type: Item
     sprite: Objects/Devices/encryption_keys.rsi
   - type: Sprite
