@@ -19,7 +19,7 @@
 - type: entity
   parent: EncryptionKey
   id: EncryptionKeyIncog # HardLight: Captialized for consistency.
-  name: Unamarked Encryption Key
+  name: Unmarked Encryption Key
   description: An Unmarked encryption key Doesnt look like it belongs to any known faction.
   components:
   - type: EncryptionKey
