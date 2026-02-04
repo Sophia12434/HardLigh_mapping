@@ -6,8 +6,8 @@
   color: "#b2224b"
 
 - type: radioChannel
-  id: USSPCommand # HardLight: Captialized for consistency.
-  name: chat-radio-ussp-command
+  id: Incog # HardLight: Captialized for consistency.
+  name: chat-radio-incog
   keycode: 'i'
   frequency: 1725
   color: "#ff0026"
