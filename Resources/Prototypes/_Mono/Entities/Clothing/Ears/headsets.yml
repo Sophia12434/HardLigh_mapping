@@ -61,11 +61,11 @@
   # HardLight start: Replaced starting encryption keys with intrinsic radio channels.
   - type: ActiveRadio
     intrinsicChannels:
-    - USSPCommand
+   # - USSPCommand doesnt exist anymore
     - USSP
   - type: EncryptionKeyHolder
     intrinsicChannels:
-    - USSPCommand
+  #  - USSPCommand doesnt exist anymore
     - USSP
   # HardLight end
 
